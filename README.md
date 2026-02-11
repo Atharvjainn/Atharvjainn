@@ -27,6 +27,13 @@
 
 ---
 
+### 🎙️ RecordFlow — Recording Device Platform  
+**A modern recording platform featuring secure authentication, seamless screen and camera recording, and flexible private/public visibility controls. Built with BetterFlow for authentication and React Hot Toast for real-time recording notifications and alerts.**
+
+🔗 [GitHub Repository](https://github.com/Atharvjainn/RecordFlow)
+
+---
+
 ### 👟 Nike Website Clone (Frontend)
 **A frontend-focused clone of the Nike website built to replicate modern UI/UX patterns. Implements global state management using React Context API, with a clean and responsive design. Backend integration will be added later.**
 
