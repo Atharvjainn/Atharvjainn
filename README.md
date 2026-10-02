@@ -34,10 +34,10 @@
 
 ---
 
-### 👟 Nike Website Clone (Frontend)
-**A frontend-focused clone of the Nike website built to replicate modern UI/UX patterns. Implements global state management using React Context API, with a clean and responsive design. Backend integration will be added later.**
+### 🤖 AI Assessment Creator — AI-Powered Assessment Platform
+**An AI-powered assessment generation platform that creates customized question papers from uploaded study materials. Supports PDF/text input, configurable question types, marks, and deadlines. Uses background job processing with BullMQ and Redis, AI-powered question generation with Gemini.**
 
-🔗 [GitHub Repository](https://github.com/Atharvjainn/Nike-project-demo)
+🔗 [GitHub Repository](https://github.com/Atharvjainn/ai-assessment-creator)
 
 ---
 
